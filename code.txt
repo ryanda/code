@@ -1,0 +1,5 @@
+App name = awesome app
+
+feature = 
+* login
+* register
