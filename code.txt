@@ -1,6 +1,4 @@
 App name = awesome app
 
 feature = 
-* login
-* register
-* manage user
+* comments
